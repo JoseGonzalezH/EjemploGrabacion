@@ -1,4 +1,4 @@
-<?php
+git remote add origin https://github.com/JoseGonzalezH/EjemploGrabacion.gitgit remote add origin https://github.com/JoseGonzalezH/EjemploGrabacion.gitgit remote add origin https://github.com/JoseGonzalezH/EjemploGrabacion.git<?php
 	if(isset($_POST["Enviar"]) && !empty($_POST["Enviar"]))
 	{
 		$mensaje='\n';
